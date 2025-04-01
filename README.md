@@ -72,6 +72,5 @@ Connected to Snowflake via OAuth
 Snowflake connection closed.
 ```
 
-## License
 
-[Your License Here]
+
